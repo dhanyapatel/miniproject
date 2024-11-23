@@ -1,0 +1,25 @@
+body{
+    background-color: #193030;
+    margin: 0;
+}
+.nav{
+    margin: 0px;
+    padding: 10px 0px;
+    justify-items: flex-start;
+    background-color: bisque;
+    
+    
+    
+}
+.nav a{
+    border-right: solid 1px black;
+    padding:0 5vh;
+    justify-content: space-evenly;
+    margin-right: 10px;
+}
+.nav ul{
+    list-style: none;
+    display: flex;
+   
+
+}
